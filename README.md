@@ -1,2 +1,3 @@
 # frozen_lake
-for dynamic programming
+
+Training an agent on frozen lake environment using dynaminc programming methods namely, policy iteration and value iteration.
